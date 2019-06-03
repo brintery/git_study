@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 Stragy for branch management.
 Test Bug branch.
+Test branch push.
